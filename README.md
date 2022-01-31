@@ -35,6 +35,12 @@ python3 storage.py
 
 That's all. Run the script and see what you can do.
 
+# Main Commands
+- I -> To insert new files
+- R -> Retrieve Existing data
+- M -> To create new safe (Type YES after you type M)
+- C -> To change safe (Type YES after you type C)
+
 # Motive and Motivation
 - My motive for building this project is to practice my python skills and make somthing useful and something interesting. Moreover, you can say this project as a terminal database.
 

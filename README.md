@@ -16,7 +16,7 @@ It is very much easy to use the **YOUR SAFE**.
 - You need to have python3.6 above downoaded in your system.
 - Clone the repository by using the following command.
 ```
-git clone https://github.com/Shreejan-35/YOUR-SAFE.git
+git clone https://github.com/CapedDemon/YOUR-SAFE.git
 ```
 - Head over to the directory or folder where you have cloned the repo.
 - Open there your favourite terminal(Ex- cmd, powershell, bash, etc...)
